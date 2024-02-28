@@ -1,1 +1,1 @@
-# verduler-a-humilde
+Este proyecto está hecho con humor y con fines de aprendizaje de conceptos básicos sobre HTML y CSS. Se buscó hacer una primera página web a través de una idea creativa y cómica, haciendo parodia a una tienda online pero con elementos del videojuego "Minecraft". Simularía ser una tienda de objetos destructivos dentro de un servidor de Minecraft con el objeto de destruir (válgame la redundancia) ciudades dentro del servidor.
